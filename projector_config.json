@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Advice",
+      "tensorShape": [
+        1030,
+        768
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/ykanungo/intellegite_projector/master/term_wise_bert_predictions.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/ykanungo/intellegite_projector/master/term_wise_bert_predictions_metadata.tsv"
+    }
+  ]
+}
