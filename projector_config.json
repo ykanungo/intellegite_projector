@@ -1,7 +1,7 @@
 {
   "embeddings": [
     {
-      "tensorName": "Advice",
+      "tensorName": "Advice - BERT NLP",
       "tensorShape": [
         1030,
         768
