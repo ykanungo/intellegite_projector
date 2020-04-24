@@ -7,8 +7,7 @@
         768
       ],
       "tensorPath": "https://raw.githubusercontent.com/ykanungo/intellegite_projector/master/term_wise_bert_predictions.tsv",
-      "metadataPath": "https://github.com/ykanungo/intellegite_projector/raw/master/term_wise_bert_predictions_metadata.tsv",
-      "bookmarksPath": "hhttps://github.com/ykanungo/intellegite_projector/raw/master/bookmarks.txt"
+      "metadataPath": "https://github.com/ykanungo/intellegite_projector/raw/master/term_wise_bert_predictions_metadata.tsv"
     }
   ]
 }
